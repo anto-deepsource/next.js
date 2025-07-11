@@ -1,4 +1,3 @@
-// section -> label
 const sectionLabelMap = {
   'Core Changes': 'type: next',
   'Documentation Changes': 'area: documentation',
